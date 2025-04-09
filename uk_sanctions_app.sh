@@ -7,7 +7,7 @@ export DEBIAN_FRONTEND=noninteractive
 GITHUB_REPO="https://github.com/assil-benamor/ShinyAppTest.git"
 DOMAIN_NAME="test4.assilbenamor.com"  # Change this to your domain
 CERTBOT_EMAIL="massilbenamor@gmail.com"         # Email for Certbot
-USE_CERTBOT=1                                   # Set to 1 to use Certbot, 0 to skip
+USE_CERTBOT=0                                  # Set to 1 to use Certbot, 0 to skip
 
 # Log file
 LOG_FILE="/tmp/firstboot.log"
