@@ -5,7 +5,7 @@ export DEBIAN_FRONTEND=noninteractive
 
 # Configurable variables
 GITHUB_REPO="https://github.com/assil-benamor/ShinyAppTest.git"
-DOMAIN_NAME="test4.assilbenamor.com"  # Change this to your domain
+DOMAIN_NAME="test5.assilbenamor.com"  # Change this to your domain
 CERTBOT_EMAIL="massilbenamor@gmail.com"         # Email for Certbot
 USE_CERTBOT=0                                  # Set to 1 to use Certbot, 0 to skip
 
